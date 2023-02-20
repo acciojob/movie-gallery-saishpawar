@@ -1,2 +1,25 @@
+.img1{
+    display: grid;
+    grid-template-columns: repeat(12,auto);
+    width: 100vw;
+    /* height: 100px; */
+    
+}
+.img2{
+    display: grid;
+    grid-template-columns: repeat(6,auto);
+    width: 100vw;
+}
 
-/* Your CSS Code here. */
+.img3{
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    width: 100vw;
+}
+
+.img4{
+    display: grid;
+    /* grid-template-columns: repeat(3,auto); */
+    width: 100vw;
+    justify-self: center;
+}
